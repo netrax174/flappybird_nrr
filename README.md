@@ -1,3 +1,3 @@
 # flappybird_nrr
 
-author- netra<br>Rhythem<br>rhishab
+author- netra<br>Rhythem<br>Rhishabh
